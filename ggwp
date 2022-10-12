@@ -1,0 +1,66 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>SUCI FIDIANTI</title>
+    <link rel="stylesheet" href="suci.css">
+</head>
+<body>
+    <div class="komplit">
+    	<div class="gatauweh" style="color: navy;">
+            <h2>Hi Guys</h2>
+            <p>My name is SUCI FIDIANTI</p><p>NIM: : 43210046</p><p>Prodi: Sistem Informasi</p>
+
+    	</div>
+        <div class="kiloan" align="center">
+            <span class="istigfar aktif" id="istigfar_1">Profile Saya</span>
+            <span class="istigfar" id="istigfar_3">Tugas</span>
+            <span class="istigfar" id="istigfar_2">Kontak</span>
+        	<span href="#" class="tombol" class="istigfar" id="istigfar_3"></span>
+			<div class="awan-bawah">
+        	<div class="awan">
+        </div></div>
+        </div>
+
+        <div class="mumet" id="iniloh_1" style="text-align: center;">
+        	<h2 class="mata">Smile</h2>	
+            <section style="font-size: 25px;">
+        	<img src="ft2.jpg" style="width: 50%">
+            </section> 
+        	</ul>
+        	<span class="hidung"></span>
+        </div>
+
+        <div class="Kontak" id="iniloh_2" style=" display: none;">
+            <br>
+            <h2 class="mata" style="text-align: center;">Kontak</h2>
+            <p>Silahkan Hubungi:</p>
+            <ul>
+                <li >Instagram: <a href="https://instagram.com/sucipidian18">@sucipidiah18</a>.</li>
+                <li>Email: <a href="mailto:sucifidianti18@gmail.com">sucifidianti18@gmail.com</a>.</li>
+
+            </ul>
+        </div>
+        <div class="iniloh" id="iniloh_3" style="display: none;">
+            <br>
+            <h2 class="mata" align="center">Tugas</h2>
+            <p>Tugasku</p>
+            <ul>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/tabel.html">P03 HTML Table Sederhana</a></li>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/tabel-2.html">P03 HTML Table CSS</a></li>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/tabel-3.html">P03 HTML Table JQuery Challenge</a></li>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/form.html">P03 Formulir Level #1 Basic HTML Form</a></li>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/form+css.html">P04 Formulir Level #2 Basic-CSS HTML Form</a></li>
+                 <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/p05-jquery-delete/">P05 JQuery FadeOut When Delete</a></li>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/p05-jquery-sliding/">P05 JQuery Sliding</a></li>
+                <li><a href="https://sucifi18.github.io/sucifi18.github.io-html/p06-SPA-Menu/">P06 JQuery Add/Remove Class for SPA Menu</a></li>
+
+            </ul>
+        </div>
+        
+       
+        	
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="jssuci.js"></script>
+
+
+</body></html>
